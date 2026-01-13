@@ -1,0 +1,13 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SuperMario3DLand",
+  "creator": "KitLemonfoot",
+  "filler_item_name": "Coin",
+  "starting_items": [
+    {
+      "items": [
+        "World 1 Key"
+      ]
+    }
+  ]
+}

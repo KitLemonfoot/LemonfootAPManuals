@@ -1,0 +1,19 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Splatoon2",
+  "creator": "KitLemonfoot",
+  "filler_item_name": "Power Egg",
+  "starting_items": [
+    {
+      "items": [
+        "Tentakeel Outpost Access"
+      ]
+    },
+    {
+      "item_categories": [
+        "Weapons"
+      ],
+      "random": 1
+    }
+  ]
+}

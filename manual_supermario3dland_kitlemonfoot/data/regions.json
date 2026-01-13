@@ -1,0 +1,34 @@
+{
+  "World 1": {
+    "connects_to": [],
+    "requires": "|World 1 Key|"
+  },
+  "World 2": {
+    "connects_to": [],
+    "requires": "|World 2 Key|"
+  },
+  "World 3": {
+    "connects_to": [],
+    "requires": "|World 3 Key|"
+  },
+  "World 4": {
+    "connects_to": [],
+    "requires": "|World 4 Key|"
+  },
+  "World 5": {
+    "connects_to": [],
+    "requires": "|World 5 Key|"
+  },
+  "World 6": {
+    "connects_to": [],
+    "requires": "|World 6 Key|"
+  },
+  "World 7": {
+    "connects_to": [],
+    "requires": "|World 7 Key|"
+  },
+  "World 8": {
+    "connects_to": [],
+    "requires": "|World 8 Key|"
+  }
+}

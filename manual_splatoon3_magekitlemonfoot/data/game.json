@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Splatoon 3",
+  "creator": "MageKitLemonfoot",
+  "filler_item_name": "Power Egg",
+  "starting_items": []
+}

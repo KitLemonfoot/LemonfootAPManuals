@@ -1,0 +1,259 @@
+[
+  {
+    "name": "S1-1: Return of the Octarians",
+    "region": "Tentakeel Outpost",
+    "category": [
+      "Sector 1"
+    ],
+    "requires": "|Tentakeel Outpost Access|"
+  },
+  {
+    "name": "S1-2: Welcome to Octopia",
+    "region": "Tentakeel Outpost",
+    "category": [
+      "Sector 1"
+    ],
+    "requires": "|Tentakeel Outpost Access|"
+  },
+  {
+    "name": "S1-3: Sunset Octocopter",
+    "region": "Tentakeel Outpost",
+    "category": [
+      "Sector 1"
+    ],
+    "requires": "|Tentakeel Outpost Access|"
+  },
+  {
+    "name": "S1-B: Industrial Toast",
+    "region": "Tentakeel Outpost",
+    "category": [
+      "Sector 1"
+    ],
+    "requires": "|Tentakeel Outpost Access| AND |Boss Key - Octo Oven|"
+  },
+  {
+    "name": "S2-4: Enter the Octohurler",
+    "region": "Suction-Cup Lookout",
+    "category": [
+      "Sector 2"
+    ],
+    "requires": "|Suction-Cup Lookout Access|"
+  },
+  {
+    "region": "Suction-Cup Lookout",
+    "name": "S2-5: The Octopark",
+    "category": [
+      "Sector 2"
+    ],
+    "requires": "|Suction-Cup Lookout Access|"
+  },
+  {
+    "region": "Suction-Cup Lookout",
+    "name": "S2-6: Octozeppelin Invasion",
+    "category": [
+      "Sector 2"
+    ],
+    "requires": "|Suction-Cup Lookout Access|"
+  },
+  {
+    "region": "Suction-Cup Lookout",
+    "name": "S2-7: Back-Alley Cleanup",
+    "category": [
+      "Sector 2"
+    ],
+    "requires": "|Suction-Cup Lookout Access|"
+  },
+  {
+    "region": "Suction-Cup Lookout",
+    "name": "S2-8: Spinning Campground",
+    "category": [
+      "Sector 2"
+    ],
+    "requires": "|Suction-Cup Lookout Access|"
+  },
+  {
+    "region": "Suction-Cup Lookout",
+    "name": "S2-9: Octoling Strike",
+    "category": [
+      "Sector 2"
+    ],
+    "requires": "|Suction-Cup Lookout Access|"
+  },
+  {
+    "region": "Suction-Cup Lookout",
+    "name": "S2-B: The Showdown",
+    "category": [
+      "Sector 2"
+    ],
+    "requires": "|Suction-Cup Lookout Access| AND |Boss Key - Octo Samurai|"
+  },
+  {
+    "region": "Beaker's Depot",
+    "name": "S3-10: Octoseeker Shakedown",
+    "category": [
+      "Sector 3"
+    ],
+    "requires": "|Beaker's Depot Access|"
+  },
+  {
+    "region": "Beaker's Depot",
+    "name": "S3-11: The Floating Garden",
+    "category": [
+      "Sector 3"
+    ],
+    "requires": "|Beaker's Depot Access|"
+  },
+  {
+    "region": "Beaker's Depot",
+    "name": "S3-12: Octo-Resort Spring",
+    "category": [
+      "Sector 3"
+    ],
+    "requires": "|Beaker's Depot Access|"
+  },
+  {
+    "region": "Beaker's Depot",
+    "name": "S3-13: Dancing Floors",
+    "category": [
+      "Sector 3"
+    ],
+    "requires": "|Beaker's Depot Access|"
+  },
+  {
+    "region": "Beaker's Depot",
+    "name": "S3-14: Parking Garage",
+    "category": [
+      "Sector 3"
+    ],
+    "requires": "|Beaker's Depot Access|"
+  },
+  {
+    "region": "Beaker's Depot",
+    "name": "S3-15: Octoling Assault",
+    "category": [
+      "Sector 3"
+    ],
+    "requires": "|Beaker's Depot Access|"
+  },
+  {
+    "region": "Beaker's Depot",
+    "name": "S3-B: Lips for Days",
+    "category": [
+      "Sector 3"
+    ],
+    "requires": "|Beaker's Depot Access| AND |Boss Key - Octostomp|"
+  },
+  {
+    "name": "S4-16: Secret Bowling Alley",
+    "region": "Slimeskin Garrison",
+    "category": [
+      "Sector 4"
+    ],
+    "requires": "|Slimeskin Garrison Access|"
+  },
+  {
+    "name": "S4-17: Octocommander Fortress",
+    "region": "Slimeskin Garrison",
+    "category": [
+      "Sector 4"
+    ],
+    "requires": "|Slimeskin Garrison Access|"
+  },
+  {
+    "name": "S4-18: Towering Heights",
+    "region": "Slimeskin Garrison",
+    "category": [
+      "Sector 4"
+    ],
+    "requires": "|Slimeskin Garrison Access|"
+  },
+  {
+    "region": "Slimeskin Garrison",
+    "name": "S4-19: The Experimentorium",
+    "category": [
+      "Sector 4"
+    ],
+    "requires": "|Slimeskin Garrison Access|"
+  },
+  {
+    "region": "Slimeskin Garrison",
+    "name": "S4-20: Propellerland",
+    "category": [
+      "Sector 4"
+    ],
+    "requires": "|Slimeskin Garrison Access|"
+  },
+  {
+    "region": "Slimeskin Garrison",
+    "name": "S4-21: Octolings Ahoy!",
+    "category": [
+      "Sector 4"
+    ],
+    "requires": "|Slimeskin Garrison Access|"
+  },
+  {
+    "name": "S4-B: Sanitizarium",
+    "region": "Slimeskin Garrison",
+    "category": [
+      "Sector 4"
+    ],
+    "requires": "|Slimeskin Garrison Access| AND |Boss Key - Octo Shower|"
+  },
+  {
+    "name": "S5-22: Underground Expressway",
+    "region": "Cephalon HQ",
+    "category": [
+      "Sector 5"
+    ],
+    "requires": "|Cephalon HQ Access|"
+  },
+  {
+    "name": "S5-23: The Octogalaxy",
+    "region": "Cephalon HQ",
+    "category": [
+      "Sector 5"
+    ],
+    "requires": "|Cephalon HQ Access|"
+  },
+  {
+    "name": "S5-24: Transfer Junction",
+    "region": "Cephalon HQ",
+    "category": [
+      "Sector 5"
+    ],
+    "requires": "|Cephalon HQ Access|"
+  },
+  {
+    "name": "S5-25: Platform Madhouse",
+    "region": "Cephalon HQ",
+    "category": [
+      "Sector 5"
+    ],
+    "requires": "|Cephalon HQ Access|"
+  },
+  {
+    "name": "S5-26: Paradise Lanes",
+    "region": "Cephalon HQ",
+    "category": [
+      "Sector 5"
+    ],
+    "requires": "|Cephalon HQ Access|"
+  },
+  {
+    "name": "S5-27: Octoling Workout",
+    "region": "Cephalon HQ",
+    "category": [
+      "Sector 5"
+    ],
+    "requires": "|Cephalon HQ Access|"
+  },
+  {
+    "name": "S5-B: Bomb Rush Blush",
+    "victory": true,
+    "region": "Cephalon HQ",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Tentakeel Outpost Access| AND |Suction-Cup Lookout Access| AND |Beaker's Depot Access| AND |Slimeskin Garrison Access| AND |Cephalon HQ Access| AND |Boss Key - Octo Oven| AND |Boss Key - Octo Samurai| AND |Boss Key - Octostomp| AND |Boss Key - Octo Shower|"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "count": "144",
+    "name": "Star Medal",
+    "category": [
+      "Star Medals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "World 1 Key",
+    "category": [
+      "World Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "World 2 Key",
+    "category": [
+      "World Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "World 3 Key",
+    "category": [
+      "World Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "World 4 Key",
+    "category": [
+      "World Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "World 5 Key",
+    "category": [
+      "World Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "World 6 Key",
+    "category": [
+      "World Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "World 7 Key",
+    "category": [
+      "World Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "World 8 Key",
+    "category": [
+      "World Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Fire Flower",
+    "category": [
+      "Powerups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Super Leaf",
+    "category": [
+      "Powerups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boomerang Flower",
+    "category": [
+      "Powerups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Propeller Box",
+    "category": [
+      "Powerups"
+    ],
+    "progression": true
+  }
+]

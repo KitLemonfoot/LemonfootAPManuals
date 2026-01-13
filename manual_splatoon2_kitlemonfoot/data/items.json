@@ -1,0 +1,170 @@
+[
+  {
+    "count": 1,
+    "name": "Tentakeel Outpost Access",
+    "category": [
+      "Area Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Suction-Cup Lookout Access",
+    "category": [
+      "Area Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Beaker's Depot Access",
+    "category": [
+      "Area Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Slimeskin Garrison Access",
+    "category": [
+      "Area Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cephalon HQ Access",
+    "category": [
+      "Area Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boss Key - Octo Oven",
+    "category": [
+      "Boss Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boss Key - Octo Samurai",
+    "category": [
+      "Boss Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boss Key - Octostomp",
+    "category": [
+      "Boss Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boss Key - Octo Shower",
+    "category": [
+      "Boss Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Hero Shot",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Hero Roller",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Hero Charger",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Hero Dualies",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Hero Slosher",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Hero Splatling",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Hero Blaster",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Hero Brella",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Herobrush",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Ink Tank",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Curling Bombs",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Autobombs",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  }
+]

@@ -1,0 +1,1539 @@
+[
+  {
+    "name": "World 1-1: Star Medal 1",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-1: Star Medal 2",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-1: Star Medal 3",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-1 Complete",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-2 Star Medal 1",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 1",
+    "name": "World 1-2 Star Medal 2",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 1",
+    "name": "World 1-2 Star Medal 3",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 1",
+    "name": "World 1-2 Complete",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 1",
+    "name": "World 1-3 Star Medal 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 1",
+    "name": "World 1-3 Star Medal 2",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-3 Star Medal 3",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-3 Complete",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-4 Star Medal 1",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": "|Star Medal:3|"
+  },
+  {
+    "name": "World 1-4 Star Medal 2",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": "|Star Medal:3|"
+  },
+  {
+    "name": "World 1-4 Star Medal 3",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": "|Star Medal:3|"
+  },
+  {
+    "name": "World 1-4 Complete",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": "|Star Medal:3|"
+  },
+  {
+    "name": "World 1-Castle Star Medal 1",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-Castle Star Medal 2",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-Castle Star Medal 3",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-Castle Complete",
+    "region": "World 1",
+    "category": [
+      "World 1"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 2",
+    "name": "World 2-1 Star Medal 1",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 2",
+    "name": "World 2-1 Star Medal 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 2",
+    "name": "World 2-1 Star Medal 3",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 2",
+    "name": "World 2-1 Complete",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-2 Star Medal 1",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 2",
+    "name": "World 2-2 Star Medal 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 2",
+    "name": "World 2-2 Star Medal 3",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 2",
+    "name": "World 2-2 Complete",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-3 Star Medal 1",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": "|Super Leaf|"
+  },
+  {
+    "name": "World 2-3 Star Medal 2",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": "|Propeller Box|"
+  },
+  {
+    "name": "World 2-3 Star Medal 3",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": "|Propeller Box| AND |Super Leaf|"
+  },
+  {
+    "region": "World 2",
+    "name": "World 2-3 Complete",
+    "category": [
+      "World 2"
+    ],
+    "requires": "|Propeller Box|"
+  },
+  {
+    "name": "World 2-4 Star Medal 1",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-4 Star Medal 2",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-4 Star Medal 3",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-4 Complete",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-Ship Star Medal 1",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-Ship Star Medal 2",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-Ship Star Medal 3",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-Ship Complete",
+    "region": "World 2",
+    "category": [
+      "World 2"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 3",
+    "name": "World 3-1 Star Medal 1",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 3",
+    "name": "World 3-1 Star Medal 2",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 3",
+    "name": "World 3-1 Star Medal 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 3",
+    "name": "World 3-1 Complete",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-2 Star Medal 1",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 3",
+    "name": "World 3-2 Star Medal 2",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 3",
+    "name": "World 3-2 Star Medal 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 3",
+    "name": "World 3-2 Complete",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-3 Star Medal 1",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": "|Super Leaf|"
+  },
+  {
+    "name": "World 3-3 Star Medal 2",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-3 Star Medal 3",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 3",
+    "name": "World 3-3 Complete",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-4 Star Medal 1",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-4 Star Medal 2",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-4 Star Medal 3",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-4 Complete",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-5 Star Medal 1",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": "|Star Medal:15|"
+  },
+  {
+    "name": "World 3-5 Star Medal 2",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": "|Star Medal:15|"
+  },
+  {
+    "name": "World 3-5 Star Medal 3",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": "|Star Medal:15|"
+  },
+  {
+    "name": "World 3-5 Complete",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": "|Star Medal:15|"
+  },
+  {
+    "name": "World 3-Ship Star Medal 1",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-Ship Star Medal 2",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-Ship Star Medal 3",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-Ship Complete",
+    "region": "World 3",
+    "category": [
+      "World 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 4",
+    "name": "World 4-1 Star Medal 1",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 4",
+    "name": "World 4-1 Star Medal 2",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 4",
+    "name": "World 4-1 Star Medal 3",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 4",
+    "name": "World 4-1 Complete",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-2 Star Medal 1",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 4",
+    "name": "World 4-2 Star Medal 2",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 4",
+    "name": "World 4-2 Star Medal 3",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 4",
+    "name": "World 4-2 Complete",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-3 Star Medal 1",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": "|Star Medal:30|"
+  },
+  {
+    "name": "World 4-3 Star Medal 2",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": "|Star Medal:30|"
+  },
+  {
+    "name": "World 4-3 Star Medal 3",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": "|Star Medal:30|"
+  },
+  {
+    "region": "World 4",
+    "name": "World 4-3 Complete",
+    "category": [
+      "World 4"
+    ],
+    "requires": "|Star Medal:30|"
+  },
+  {
+    "name": "World 4-4 Star Medal 1",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-4 Star Medal 2",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-4 Star Medal 3",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-4 Complete",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-5 Star Medal 1",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-5 Star Medal 2",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-5 Star Medal 3",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-5 Complete",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-Ship Star Medal 1",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-Ship Star Medal 2",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-Ship Star Medal 3",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-Ship Complete",
+    "region": "World 4",
+    "category": [
+      "World 4"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 5",
+    "name": "World 5-1 Star Medal 1",
+    "category": [
+      "World 5"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 5",
+    "name": "World 5-1 Star Medal 2",
+    "category": [
+      "World 5"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 5",
+    "name": "World 5-1 Star Medal 3",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Boomerang Flower|"
+  },
+  {
+    "region": "World 5",
+    "name": "World 5-1 Complete",
+    "category": [
+      "World 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-2 Star Medal 1",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 5",
+    "name": "World 5-2 Star Medal 2",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Fire Flower|"
+  },
+  {
+    "region": "World 5",
+    "name": "World 5-2 Star Medal 3",
+    "category": [
+      "World 5"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 5",
+    "name": "World 5-2 Complete",
+    "category": [
+      "World 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-3 Star Medal 1",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Star Medal:40|"
+  },
+  {
+    "name": "World 5-3 Star Medal 2",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Star Medal:40|"
+  },
+  {
+    "name": "World 5-3 Star Medal 3",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Star Medal:40|"
+  },
+  {
+    "region": "World 5",
+    "name": "World 5-3 Complete",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Star Medal:40|"
+  },
+  {
+    "name": "World 5-4 Star Medal 1",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-4 Star Medal 2",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-4 Star Medal 3",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-4 Complete",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-5 Star Medal 1",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Propeller Box|"
+  },
+  {
+    "name": "World 5-5 Star Medal 2",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Propeller Box|"
+  },
+  {
+    "name": "World 5-5 Star Medal 3",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Propeller Box|"
+  },
+  {
+    "name": "World 5-5 Complete",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Propeller Box|"
+  },
+  {
+    "name": "World 5-Castle Star Medal 1",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Star Medal:50|"
+  },
+  {
+    "name": "World 5-Castle Star Medal 2",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Star Medal:50|"
+  },
+  {
+    "name": "World 5-Castle Star Medal 3",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Star Medal:50|"
+  },
+  {
+    "name": "World 5-Castle Complete",
+    "region": "World 5",
+    "category": [
+      "World 5"
+    ],
+    "requires": "|Star Medal:50|"
+  },
+  {
+    "region": "World 6",
+    "name": "World 6-1 Star Medal 1",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 6",
+    "name": "World 6-1 Star Medal 2",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 6",
+    "name": "World 6-1 Star Medal 3",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 6",
+    "name": "World 6-1 Complete",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-2 Star Medal 1",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 6",
+    "name": "World 6-2 Star Medal 2",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 6",
+    "name": "World 6-2 Star Medal 3",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 6",
+    "name": "World 6-2 Complete",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-3 Star Medal 1",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-3 Star Medal 2",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-3 Star Medal 3",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 6",
+    "name": "World 6-3 Complete",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-4 Star Medal 1",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-4 Star Medal 2",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-4 Star Medal 3",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-4 Complete",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-5 Star Medal 1",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": "|Star Medal:60|"
+  },
+  {
+    "name": "World 6-5 Star Medal 2",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": "|Star Medal:60|"
+  },
+  {
+    "name": "World 6-5 Star Medal 3",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": "|Star Medal:60|"
+  },
+  {
+    "name": "World 6-5 Complete",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": "|Star Medal:60|"
+  },
+  {
+    "name": "World 6-Ship Star Medal 1",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-Ship Star Medal 2",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-Ship Star Medal 3",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 6-Ship Complete",
+    "region": "World 6",
+    "category": [
+      "World 6"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 7",
+    "name": "World 7-1 Star Medal 1",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 7",
+    "name": "World 7-1 Star Medal 2",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 7",
+    "name": "World 7-1 Star Medal 3",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 7",
+    "name": "World 7-1 Complete",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-2 Star Medal 1",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 7",
+    "name": "World 7-2 Star Medal 2",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 7",
+    "name": "World 7-2 Star Medal 3",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 7",
+    "name": "World 7-2 Complete",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-3 Star Medal 1",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": "|Star Medal:70|"
+  },
+  {
+    "name": "World 7-3 Star Medal 2",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": "|Star Medal:70|"
+  },
+  {
+    "name": "World 7-3 Star Medal 3",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": "|Star Medal:70|"
+  },
+  {
+    "region": "World 7",
+    "name": "World 7-3 Complete",
+    "category": [
+      "World 7"
+    ],
+    "requires": "|Star Medal:70|"
+  },
+  {
+    "name": "World 7-4 Star Medal 1",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-4 Star Medal 2",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-4 Star Medal 3",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-4 Complete",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-5 Star Medal 1",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-5 Star Medal 2",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-5 Star Medal 3",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-5 Complete",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-Ship Star Medal 1",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-Ship Star Medal 2",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-Ship Star Medal 3",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 7-Ship Complete",
+    "region": "World 7",
+    "category": [
+      "World 7"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-1 Star Medal 1",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-1 Star Medal 2",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-1 Star Medal 3",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-1 Complete",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 8-2 Star Medal 1",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-2 Star Medal 2",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-2 Star Medal 3",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-2 Complete",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 8-3 Star Medal 1",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:80| AND |Super Leaf|"
+  },
+  {
+    "name": "World 8-3 Star Medal 2",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:80|"
+  },
+  {
+    "name": "World 8-3 Star Medal 3",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:80|"
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-3 Complete",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:80|"
+  },
+  {
+    "name": "World 8-4 Star Medal 1",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 8-4 Star Medal 2",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 8-4 Star Medal 3",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 8-4 Complete",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 8-5 Star Medal 1",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 8-5 Star Medal 2",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 8-5 Star Medal 3",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 8-5 Complete",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 8-Bowser Part 1 Star Medal 1",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:90|"
+  },
+  {
+    "name": "World 8-Bowser Part 1 Star Medal 2",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:90| AND |Boomerang Flower|"
+  },
+  {
+    "name": "World 8-Bowser Part 1 Star Medal 3",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:90| AND (|Boomerang Flower| OR |Super Leaf|)"
+  },
+  {
+    "name": "World 8-Bowser Part 1 Complete",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:90|"
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-6 Star Medal 1",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:90|"
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-6 Star Medal 2",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:90|"
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-6 Star Medal 3",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:90|"
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-6 Complete",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:90|"
+  },
+  {
+    "name": "World 8-Final Star Medal 1",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:100|"
+  },
+  {
+    "name": "World 8-Final Star Medal 2",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:100|"
+  },
+  {
+    "name": "World 8-Final Star Medal 3",
+    "region": "World 8",
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:100|"
+  },
+  {
+    "region": "World 8",
+    "name": "World 8-Final Complete",
+    "victory": true,
+    "category": [
+      "World 8"
+    ],
+    "requires": "|Star Medal:100|"
+  }
+]

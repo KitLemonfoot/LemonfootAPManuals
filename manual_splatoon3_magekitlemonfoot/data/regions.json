@@ -1,0 +1,48 @@
+{
+  "The Crater": {
+    "starting": true,
+    "connects_to": [
+      "Site 1",
+      "Site 2",
+      "Site 3",
+      "Site 4",
+      "Site 5",
+      "Site 6"
+    ],
+    "requires": []
+  },
+  "Site 1": {
+    "connects_to": [],
+    "requires": "|Site 1 Key|"
+  },
+  "Site 2": {
+    "connects_to": [
+      "Final Boss"
+    ],
+    "requires": "|Site 2 Key|"
+  },
+  "Site 3": {
+    "connects_to": [],
+    "requires": "|Site 3 Key|"
+  },
+  "Site 4": {
+    "connects_to": [
+      "Final Boss"
+    ],
+    "requires": "|Site 4 Key|"
+  },
+  "Site 5": {
+    "connects_to": [],
+    "requires": "|Site 5 Key|"
+  },
+  "Site 6": {
+    "connects_to": [
+      "Final Boss"
+    ],
+    "requires": "|Site 6 Key|"
+  },
+  "Final Boss": {
+    "connects_to": [],
+    "requires": "|Hero Gear| AND |Site 2 Key| AND |Boss Key - Frye| AND |Site 4 Key| AND |Boss Key - Shiver| AND |Site 6 Key| AND |Boss Key - Big Man|"
+  }
+}

@@ -1,0 +1,569 @@
+[
+  {
+    "name": "Crater-1 Octarians in the Crater? YIKES!",
+    "region": "The Crater",
+    "category": [
+      "Crater Stages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crater-2 Sink into the Ink and SWIM!",
+    "region": "The Crater",
+    "category": [
+      "Crater Stages"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Crater",
+    "name": "Crater-3 Boxes Locked! Keys, Please!",
+    "category": [
+      "Crater Stages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crater-4 What Are They? Can We Stop Them?!",
+    "region": "The Crater",
+    "category": [
+      "Crater Stages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crater-B Octobot King L3.Gs!",
+    "region": "The Crater",
+    "category": [
+      "Crater Stages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "1-1 Get to Know Alterna, Your Only Choice",
+    "region": "Site 1",
+    "category": [
+      "Site 1 Stages"
+    ],
+    "requires": "|Hero Gear|"
+  },
+  {
+    "name": "1-2 Octopods at Rest Tend to FLIP OUT!",
+    "region": "Site 1",
+    "category": [
+      "Site 1 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Brellas| OR |Splatlings|"
+  },
+  {
+    "name": "1-3 Splat You on the Flip Side",
+    "region": "Site 1",
+    "category": [
+      "Site 1 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Brellas| OR |Blasters|"
+  },
+  {
+    "name": "1-4 Doors, Doors, Doors! And More! (Doors)",
+    "region": "Site 1",
+    "category": [
+      "Site 1 Stages"
+    ],
+    "requires": "|Hero Gear|"
+  },
+  {
+    "name": "1-5 Relic Restoration",
+    "region": "Site 1",
+    "category": [
+      "Site 1 Stages"
+    ],
+    "requires": "|Sloshers|"
+  },
+  {
+    "name": "1-6 Zip, Splat, and Jump",
+    "region": "Site 1",
+    "category": [
+      "Site 1 Stages"
+    ],
+    "requires": "|Zipcaster| AND |Shooters|"
+  },
+  {
+    "name": "1-7 Become One with Your Smallfry",
+    "region": "Site 1",
+    "category": [
+      "Site 1 Stages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "1-8 What Caused the Big Bang? YOU!",
+    "region": "Site 1",
+    "category": [
+      "Site 1 Stages"
+    ],
+    "requires": "|Chargers|"
+  },
+  {
+    "name": "1-9 The String's the Thing",
+    "region": "Site 1",
+    "category": [
+      "Site 1 Stages"
+    ],
+    "requires": "|Stringers|"
+  },
+  {
+    "name": "1-10 Deadly Dance Hall-Jump, Jump!",
+    "region": "Site 1",
+    "category": [
+      "Site 1 Stages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "2-1 Twirling, Swirling, Whirling",
+    "region": "Site 2",
+    "category": [
+      "Site 2 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Splatlings| OR |Blasters|"
+  },
+  {
+    "name": "2-2 Absorbency and You",
+    "region": "Site 2",
+    "category": [
+      "Site 2 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Dualies| OR |Chargers|"
+  },
+  {
+    "name": "2-3 Soak It to Me!",
+    "region": "Site 2",
+    "category": [
+      "Site 2 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Sloshers| OR |Brushes|"
+  },
+  {
+    "name": "2-4 Splitting Crosshairs",
+    "region": "Site 2",
+    "category": [
+      "Site 2 Stages"
+    ],
+    "requires": "|Shooters| OR |Sloshers| OR |Splatlings|"
+  },
+  {
+    "name": "2-5 Tread Heavily",
+    "region": "Site 2",
+    "category": [
+      "Site 2 Stages"
+    ],
+    "requires": "|Crab Tank|"
+  },
+  {
+    "name": "2-6 Getting Lost in Three Easy Steps",
+    "region": "Site 2",
+    "category": [
+      "Site 2 Stages"
+    ],
+    "requires": "|Shooters|"
+  },
+  {
+    "name": "2-7 The Ink-Conservation Project",
+    "region": "Site 2",
+    "category": [
+      "Site 2 Stages"
+    ],
+    "requires": "|Blasters|"
+  },
+  {
+    "name": "2-8 Switching Things Up",
+    "region": "Site 2",
+    "category": [
+      "Site 2 Stages"
+    ],
+    "requires": "|Shooters|"
+  },
+  {
+    "name": "2-B The Future Stares Back",
+    "region": "Site 2",
+    "category": [
+      "Site 2 Stages"
+    ],
+    "requires": "|Hero Gear| AND |Boss Key - Frye|"
+  },
+  {
+    "region": "Site 3",
+    "name": "3-1 Climbing the Corporate Splatter",
+    "category": [
+      "Site 3 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Dualies| OR |Splatlings|"
+  },
+  {
+    "name": "3-2 They Said We'd Have Flying Cars, and We Do!",
+    "region": "Site 3",
+    "category": [
+      "Site 3 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Rollers| OR |Shooters|"
+  },
+  {
+    "name": "3-3 Ink Wheels-Experience Tomorrow's Technology Today!",
+    "region": "Site 3",
+    "category": [
+      "Site 3 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Sloshers|"
+  },
+  {
+    "name": "3-4 Try Curling! Alterna's 11th Most Popular Athleisure Activity!",
+    "region": "Site 3",
+    "category": [
+      "Site 3 Stages"
+    ],
+    "requires": "|Curling Bombs|"
+  },
+  {
+    "name": "3-5 Conveyor-Belt Tightening",
+    "region": "Site 3",
+    "category": [
+      "Site 3 Stages"
+    ],
+    "requires": "|Sloshers| OR |Brushes| OR |Rollers|"
+  },
+  {
+    "name": "3-6 Time Trial and Errors",
+    "region": "Site 3",
+    "category": [
+      "Site 3 Stages"
+    ],
+    "requires": "|Shooters| OR |Chargers|"
+  },
+  {
+    "name": "3-7 Rail Pass",
+    "region": "Site 3",
+    "category": [
+      "Site 3 Stages"
+    ],
+    "requires": "|Blasters| OR |Shooters|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-1 Propellered to Greatness",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Splatlings| OR |Chargers|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-2 Octohoppers Don't Have a Sense of Humor (and They Hate Puns)!",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Sloshers| OR |Dualies|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-3 Let's Put a Pin in That",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Chargers| OR |Brushes|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-4 Splash the Block Party",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Shooters| OR |Stringers|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-5 Amusing a Bemused Muse",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Zipcaster| AND (|Shooters| OR |Sloshers| OR |Chargers|)"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-6 Those Aren't Birds",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Splatlings| OR |Dualies| OR |Chargers|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-7 Charge Now, Splat Later",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Chargers|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-8 Easy Ride, Tricky Targets",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Shooters| OR |Blasters| OR |Splatlings|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-9 Flying Worst Class",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Shooters| OR |Rollers| OR |Chargers|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-10 Ink Fast, Hotshot",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Shooters| OR |Chargers|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-11 Stamp 'Em Out",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Splatanas|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-12 The Path to Perfect Penmanship",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Brushes|"
+  },
+  {
+    "region": "Site 4",
+    "name": "4-B The Pursuit of the Precious",
+    "category": [
+      "Site 4 Stages"
+    ],
+    "requires": "|Hero Gear| AND |Boss Key - Shiver|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-1 Trouble Round Every Corner",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Shooters| OR |Dualies|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-2 The Upside to Enemy Backsides",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Rollers| OR |Dualies|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-3 Uh-Oh! Too Many Snipers!",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Brellas| OR |Shooters|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-4 Barriers! They've Got You Covered",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Stringers| OR |Sloshers|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-5 A Compulsive Collector's Paradise",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Shooters| OR |Brushes| OR |Chargers|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-6 Zipping over the Neighborhood",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Zipcaster| AND |Brushes|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-7 One-Way Ride through Target Town",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Splatlings| OR |Blasters| OR |Stringers|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-8 Making Waves with Splashdowns",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Splashdown|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-9 Low Viz, High Risk",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Shooters| OR |Brellas| OR |Rollers|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-10 Shooter on Rails",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Shooters| OR |Stringers| OR |Chargers|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-11 Simply Zipcastic!",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Zipcaster| AND |Shooters|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-12 You'll Go Far If You Shoot Far",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Sloshers| OR |Splatlings| OR |Rollers|"
+  },
+  {
+    "region": "Site 5",
+    "name": "5-13 Learn to Reflect, and This One Is in the Bank",
+    "category": [
+      "Site 5 Stages"
+    ],
+    "requires": "|Shooters|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-1 Bet You Mist Us!",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Blasters| OR |Splatanas|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-2 Octarian Heights",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Chargers| OR |Rollers|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-3 Torture Tour",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Hero Gear| OR |Blasters| OR |Shooters|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-4 Conserve Ink-Splat Sustainably",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Shooters|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-5 The Enemy Ink Is Lava!",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Curling Bombs|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-6 Keep It Rolling",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Rollers|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-7 That Sinking Feeling",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Shooters| OR |Rollers| OR |Splatlings|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-8 Breathe In, Breathe Out",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Stringers| OR |Shooters| OR |Sloshers|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-9 Dive and Dash",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Shooters|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-10 Mission: Fly-Fishin'",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Inkjet|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-11 Don't Tease with the Keys",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Shooters| OR |Chargers| OR |Sloshers|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-12 Enter the Stamp Gauntlet",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Ultra Stamp|"
+  },
+  {
+    "region": "Site 6",
+    "name": "6-B The Obscurest Chiaroscurist",
+    "category": [
+      "Site 6 Stages"
+    ],
+    "requires": "|Hero Gear| AND |Boss Key - Big Man|"
+  },
+  {
+    "name": "Final-B Return of the Mammalians",
+    "region": "Final Boss",
+    "victory": true,
+    "category": [],
+    "requires": []
+  }
+]

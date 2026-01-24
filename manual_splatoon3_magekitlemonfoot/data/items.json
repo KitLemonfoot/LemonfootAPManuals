@@ -218,13 +218,17 @@
   {
     "count": "27",
     "name": "Sardinium",
-    "category": [],
+    "category": [
+      "Upgrades"
+    ],
     "useful": true
   },
   {
     "count": "11",
     "name": "9 Upgrade Points",
-    "category": [],
+    "category": [
+      "Upgrades"
+    ],
     "useful": true
   }
 ]
